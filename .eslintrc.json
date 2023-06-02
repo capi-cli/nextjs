@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "@antfu",
+    "next/core-web-vitals",
+    "@unocss"
+  ],
+  "rules": {
+    "jsx-quotes": ["error", "prefer-double"]
+  }
+}
